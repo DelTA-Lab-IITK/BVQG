@@ -1,0 +1,1324 @@
+Epoch_Number 	1
+seed	1	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	1
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	2
+seed	1	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	2
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	3
+seed	1	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	3
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	4
+seed	1	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	4
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	5
+seed	1	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	5
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	6
+seed	1	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	6
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	7
+seed	1	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	7
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	8
+seed	1	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	8
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	9
+seed	1	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	9
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	10
+seed	1	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	10
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	11
+seed	1	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	11
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	12
+seed	1	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	12
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	13
+seed	1	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	13
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	14
+seed	1	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	14
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	15
+seed	1	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	15
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	16
+seed	1	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	5	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	6	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	7	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	8	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	9	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	10	epoch	16
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+Epoch_Number 	17
+seed	1	epoch	17
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	2	epoch	17
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	3	epoch	17
+Bleu_1	0.217
+Bleu_2	0.151
+Bleu_3	0
+Bleu_4	0
+ROUGE_L	0.242
+METEOR	0.133
+CIDEr	0.219
+seed	4	epoch	17
+Bleu_1	0.217
+Bleu_2	0.151
